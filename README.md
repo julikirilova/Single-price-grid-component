@@ -10,4 +10,4 @@ Your challenge is to build out this Single price grid component and get it looki
 - Semantic HTML5 markup
 - CSS custom properties
 - CSS Grid 
-
+- Mobile 1st approach
